@@ -8,8 +8,6 @@ XGEN was written by Abygail R. Waggoner(1*) and L. Ilsedore Cleeves(1,2)
 (1) University of Virginia, Department of Chemistry
 (2) University of Virginia, Department of Astronomy
 
-* Contact A.R.W. at arw6qz@virginia.edu with any questions/concerns about XGEN
-
 
 This model is published in Waggoner & Cleeves (2022), and any use of XGEN should cite this work.
 
